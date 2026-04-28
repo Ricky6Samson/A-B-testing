@@ -10,6 +10,12 @@ Determine whether a new product version (Treatment) leads to a **statistically s
 
 ---
 
+## 📊 Dataset
+
+This project uses a **custom-generated dataset simulating an A/B testing experiment**, where users are randomly assigned to Control and Treatment groups with binary conversion outcomes.
+
+---
+
 ## 🧠 Approach
 
 - Calculated **conversion rates** for both groups  
