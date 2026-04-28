@@ -39,8 +39,7 @@ An interactive app was built to:
 - Provide instant statistical decision  
 
 Run:
-```bash
-streamlit run app/streamlit_app.py
+"streamlit run app.py" in terminal
 
 ## 🛠️ Tech Stack
 - Python  
